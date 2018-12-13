@@ -6,4 +6,8 @@ public class Tricycle extends Cycle {
         System.out.println("Tricycle.move()");
     }
 
+    public void wheels() {
+        System.out.println("Tricycle.wheeles(): 3 wheels");
+    }
+
 }

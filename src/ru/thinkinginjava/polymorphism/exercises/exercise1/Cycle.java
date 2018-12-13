@@ -6,4 +6,8 @@ public class Cycle {
         System.out.println("Cycle.move()");
     }
 
+    public void wheels() {
+        System.out.println("Cycle.wheeles(): n wheels");
+    }
+
 }
